@@ -486,9 +486,9 @@ spec:
 ```
 
 ### Sources
-- Kubernetes Official Documentation - Security Concepts
-- Kubernetes Official Documentation - Security Tutorials
-- Wiz - Kubernetes Security Best Practices
-- OWASP - Kubernetes Security Cheat Sheet
-- Tigera - Kubernetes Security Guide
-- Armosec - Kubernetes Security Best Practices + Checklist
+- [Kubernetes Official Documentation - Security Concepts](https://kubernetes.io/docs/concepts/security/)
+- [Kubernetes Official Documentation - Security Tutorials](https://kubernetes.io/docs/tutorials/security/)
+- [Wiz - Kubernetes Security Best Practices](https://www.wiz.io/academy/kubernetes-security-best-practices)
+- [OWASP - Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+- [Tigera - Kubernetes Security Guide](https://www.tigera.io/learn/guides/kubernetes-security/)
+- [Armosec - Kubernetes Security Best Practices + Checklist](https://www.armosec.io/blog/kubernetes-security-best-practices/)
